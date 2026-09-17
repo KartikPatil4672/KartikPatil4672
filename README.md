@@ -1,189 +1,178 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--            KARTIK PATIL — GITHUB PROFILE README          -->
+<!--            Palette: warm beige & peach (light)           -->
+<!-- ========================================================= -->
 
-<img src="./assets/header.svg" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFE8D6,50:E8B796,100:D4A373&text=Kartik%20Patil&fontColor=6B4226&fontSize=48&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineering%20Student&descAlignY=55&animation=fadeIn" width="100%" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=900&color=B08968&center=true&vCenter=true&width=600&lines=Learning+Machine+Learning+%F0%9F%A4%96;Exploring+Deep+Learning+%F0%9F%A7%A0;Building+Explainable+AI+%F0%9F%94%8D;Turning+Ideas+into+Code+%E2%9C%A8" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=BC6C25&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer;Deep+Learning+%26+Computer+Vision;Explainable+AI+Enthusiast;Learn+%C2%B7+Build+%C2%B7+Explain+%C2%B7+Improve" alt="Typing animation"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <a href="https://github.com/KartikPatil4672">
+    <img src="https://img.shields.io/badge/GitHub-D4A373?style=for-the-badge&logo=github&logoColor=6B4226"/>
+  </a>
+  <!-- Replace the # below with your actual LinkedIn / email links -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-E8B796?style=for-the-badge&logo=linkedin&logoColor=6B4226"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Email-FFE8D6?style=for-the-badge&logo=gmail&logoColor=6B4226"/>
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=KartikPatil4672&style=for-the-badge&color=F6D6C9&labelColor=FFF3E9" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/KartikPatil4672?style=for-the-badge&color=F6D6C9&labelColor=FFF3E9&logo=github&logoColor=4A3F35" alt="followers"/>
-<img src="https://img.shields.io/badge/status-learning%20%F0%9F%8C%B1-F6D6C9?style=for-the-badge&labelColor=FFF3E9" alt="status"/>
-
-</div>
-
-<br/>
-
----
-
-## 🌸 About Me
-
-<img align="right" width="230" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif"/>
-
-- 🎓 Energetic **Engineering Student**, exploring how intelligent systems really work
-- 🧠 Focused on **AI, Machine Learning & Data Science**
-- 🐍 Strengthening my foundations in **Python**
-- 🔍 Fascinated by **Explainable AI** — not just predictions, but *reasons*
-- ✨ Curious about **Generative AI & LLMs**
-- 💡 Philosophy: **Learn → Build → Explain → Improve**
-
-> "Don't just use AI. Understand how it works."
-
-<br clear="right"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KartikPatil4672&label=Profile%20Views&color=D4A373&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/KartikPatil4672?label=Followers&style=flat-square&color=D4A373&logo=github&logoColor=6B4226"/>
+</p>
 
 ---
 
-## 🌷 What I'm Focused On
+## 👨‍💻 About Me
 
-<table align="center">
-<tr>
-<td align="center" width="140">🐍<br/><b>Python</b><br/><sub>& Data Science</sub></td>
-<td align="center" width="140">🤖<br/><b>Machine Learning</b><br/><sub>Model Building</sub></td>
-<td align="center" width="140">🧠<br/><b>Deep Learning</b><br/><sub>Neural Networks</sub></td>
-<td align="center" width="140">👁️<br/><b>Computer Vision</b><br/><sub>Image Intelligence</sub></td>
-</tr>
-<tr>
-<td align="center" width="140">🔍<br/><b>Explainable AI</b><br/><sub>Grad-CAM · LIME · SHAP</sub></td>
-<td align="center" width="140">✨<br/><b>Generative AI</b><br/><sub>LLMs & RAG</sub></td>
-<td align="center" width="140">🧩<br/><b>AI Agents</b><br/><sub>Future Focus</sub></td>
-<td align="center" width="140">🚀<br/><b>Real-World AI</b><br/><sub>Applications</sub></td>
-</tr>
-</table>
+An energetic engineering student who likes turning curiosity about AI into small, hands-on experiments. Currently building a strong foundation in Python while learning how modern machine learning and deep learning systems actually work under the hood.
 
-<br/>
+**Focus areas:**
+- Python & Data Science
+- Machine Learning & Model Building
+- Deep Learning & Neural Networks
+- Computer Vision
+- Explainable AI (Grad-CAM, LIME, SHAP)
+- Generative AI & LLMs *(future focus)*
+
+> Go beyond simply using AI — understand how it works, build it, explain it, and turn it into real-world solutions.
+
+<details>
+<summary><b>🌱 My AI Learning Journey</b></summary>
+<br>
+
+```
+Python → Data Analysis → Statistics & Math → Machine Learning
+   → Deep Learning → Computer Vision → Explainable AI → Generative AI
+```
+
+**Currently:** building the foundation · **Next:** going deeper into Deep Learning
+
+</details>
+
+<details>
+<summary><b>💭 Philosophy</b></summary>
+<br>
+
+**Learn** — understand the theory → **Build** — turn knowledge into projects → **Explain** — understand *why* a model works → **Deploy** — turn experiments into real applications.
+
+</details>
+
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **Languages**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=light" />
 
-<br/><br/>
-
 **AI / Machine Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F6D6C9?style=for-the-badge&logo=scikitlearn&logoColor=4A3F35" />
-<img src="https://img.shields.io/badge/Pandas-F6D6C9?style=for-the-badge&logo=pandas&logoColor=4A3F35" />
-<img src="https://img.shields.io/badge/NumPy-F6D6C9?style=for-the-badge&logo=numpy&logoColor=4A3F35" />
-<img src="https://img.shields.io/badge/Matplotlib-F6D6C9?style=for-the-badge&logo=plotly&logoColor=4A3F35" />
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda&theme=light" />
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-D4A373?style=for-the-badge&logo=numpy&logoColor=6B4226"/>
+  <img src="https://img.shields.io/badge/Pandas-E8B796?style=for-the-badge&logo=pandas&logoColor=6B4226"/>
+  <img src="https://img.shields.io/badge/Matplotlib-FFE8D6?style=for-the-badge&logo=plotly&logoColor=6B4226"/>
+</p>
 
 **Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda&theme=light" />
 
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,arduino&theme=light" />
 
 ---
 
-## 🌿 My AI Learning Journey
+## 🚀 Featured Projects
 
-```text
-Python → Data Analysis → Statistics & Math → Machine Learning
-   → Deep Learning → Computer Vision → Explainable AI
-      → Generative AI → Advanced AI Systems
-```
-
-| Area | Status |
-|------|:------:|
-| 🐍 Python | 🟢 Learning |
-| 📊 Data Science | 🟢 Learning |
-| 🤖 Machine Learning | 🟢 Learning |
-| 🧠 Deep Learning | 🟡 Exploring |
-| 👁️ Computer Vision | 🟡 Exploring |
-| 🔍 Explainable AI | 🟡 Exploring |
-| ✨ Generative AI | 🔵 Future Focus |
-| 🧩 AI Agents | 🔵 Future Focus |
-
----
-
-## 🔥 Featured Projects
-
-<table align="center" width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-### 🌿 Leaf Scan AI
-**Plant Disease Detection using Machine Learning**
+### 🌿 Leaf Scan AI — Plant Disease Detection
 
-An AI-powered project that identifies plant diseases from leaf images — and explains *why*.
+An AI-powered plant disease detection project that identifies diseases from leaf images. The goal isn't just prediction — it's building a model that can *explain* why it made that prediction.
 
-`Python` `TensorFlow/Keras` `MobileNetV2` `Grad-CAM` `Computer Vision`
+**Stack:** Python · TensorFlow / Keras · MobileNetV2 · OpenCV · Grad-CAM (Explainable AI)
 
-> 🎯 Vision: build a model that doesn't just predict — it explains.
-
-[🔗 View Repo](https://github.com/KartikPatil4672/Leaf_Scan_AI)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐍 Snake Game
-**A retro Snake Game built in Python**
-
-A simple, fun project exploring core Python logic and game loops.
-
-`Python`
-
-[🔗 View Repo](https://github.com/KartikPatil4672/Snake-Game-)
+[View repository →](https://github.com/KartikPatil4672/Leaf_Scan_AI)
 
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🐍 Snake Game
+
+A retro Snake Game built from scratch in Python — a fun exercise in logic and game loops.
+
+**Stack:** Python
+
+[View repository →](https://github.com/KartikPatil4672/Snake-Game-)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Current Focus
+
+| Area                | Status          |
+| -------------------- | --------------- |
+| 🐍 Python             | 🟢 Learning      |
+| 📊 Data Science       | 🟢 Learning      |
+| 🤖 Machine Learning   | 🟢 Learning      |
+| 🧠 Deep Learning      | 🟡 Exploring     |
+| 👁️ Computer Vision    | 🟡 Exploring     |
+| 🔍 Explainable AI     | 🟡 Exploring     |
+| ✨ Generative AI      | 🔵 Future focus  |
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikPatil4672&show_icons=true&bg_color=00000000&title_color=BC6C25&icon_color=BC6C25&text_color=6B4226&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikPatil4672&layout=compact&bg_color=00000000&title_color=BC6C25&text_color=6B4226&hide_border=true" width="35%"/>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KartikPatil4672&show_icons=true&theme=transparent&hide_border=true&title_color=B08968&icon_color=E8967A&text_color=4A3F35" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikPatil4672&theme=transparent&hide_border=true&stroke=E8C4B8&ring=E8967A&fire=E8967A&currStreakLabel=B08968" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikPatil4672&layout=compact&theme=transparent&hide_border=true&title_color=B08968&text_color=4A3F35" />
-
-</div>
-
-> 💡 These two cards are served by a free public API (github-readme-stats). It occasionally takes a few seconds to wake up — if a card shows broken on first load, just refresh the page after a moment.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KartikPatil4672&background=00000000&border=00000000&ring=BC6C25&fire=D4A373&currStreakLabel=8B5E3C&currStreakNum=6B4226&sideNums=6B4226&sideLabels=8B5E3C&dates=A47148" width="65%"/>
+</p>
 
 ---
 
-## 🎯 2026 AI Roadmap
+## 🎯 2026 Roadmap
 
-- [x] Python
-- [x] Basic Machine Learning
-- [x] Data Science Fundamentals
-- [ ] Advanced Machine Learning
-- [ ] Deep Learning
-- [ ] CNN & Computer Vision
-- [ ] Transformers
-- [ ] Generative AI & LLMs
-- [ ] RAG
-- [ ] AI Agents
-- [ ] MLOps & Production AI Systems
+```
+☑ Python
+☑ Basic Machine Learning
+☑ Data Science Fundamentals
+☐ Advanced Machine Learning
+☐ Deep Learning & CNNs
+☐ Transformers
+☐ Generative AI & LLMs
+☐ RAG & AI Agents
+☐ Production AI Systems
+```
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
+Open to collaborating on anything related to Machine Learning, Computer Vision, or Explainable AI. If you find a project interesting, a ⭐ is always appreciated.
 
-<a href="https://github.com/KartikPatil4672"><img src="https://img.shields.io/badge/GitHub-FFF3E9?style=for-the-badge&logo=github&logoColor=4A3F35" /></a>
-<!-- Add your LinkedIn / Email / Twitter below the same way -->
-<!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-FFF3E9?style=for-the-badge&logo=linkedin&logoColor=4A3F35" /></a> -->
-<!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-FFF3E9?style=for-the-badge&logo=gmail&logoColor=4A3F35" /></a> -->
-
-<br/><br/>
-
-⭐ **If you find my projects interesting, consider giving them a star!**
-<br/>
-🚀 *Keep Learning • Keep Building • Keep Exploring AI*
-
-</div>
-
-<img src="./assets/footer.svg" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A373,50:E8B796,100:FFE8D6&height=120&section=footer" width="100%"/>
+</p>
