@@ -4,11 +4,11 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFE8D6,50:E8B796,100:D4A373&text=Kartik%20Patil&fontColor=6B4226&fontSize=48&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineering%20Student&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFE8D6,50:E8B796,100:D4A373&text=Kartik%20Patil&fontColor=6B4226&fontSize=48&fontAlignY=35&desc=AI%20and%20Data%20Science%20Engineering%20Student&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=BC6C25&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer;Deep+Learning+%26+Computer+Vision;Explainable+AI+Enthusiast;Learn+%C2%B7+Build+%C2%B7+Explain+%C2%B7+Improve" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=BC6C25&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer;Deep+Learning+and+Computer+Vision;Explainable+AI+Enthusiast;Learn+-+Build+-+Explain+-+Improve" alt="Typing animation"/>
 </p>
 
 <p align="center">
